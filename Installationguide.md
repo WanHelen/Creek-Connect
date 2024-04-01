@@ -6,8 +6,8 @@
 ![Screenshot 2024-03-31 143013](https://github.com/WanHelen/Creek-Connect/assets/155197028/9131b908-1b14-4cfe-9f88-b86cf76f7704)
 
 3. Unzip the file to a directory
-4. Run `CreekConnect.exe`
-
+4. Open OS and go under the correct directory
+5. Type "Python CreekConnect.py"
 
 **Note**
 If you see a screen displaying "Windows protected your PC", click `More info` then `Run anyway`.
