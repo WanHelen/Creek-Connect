@@ -25,7 +25,7 @@ Creek Connect offers seamless and rapid access to data. Its intuitive and user-f
 - **Logout**: When the user if finished, they can logout to protect data information and allow the next user to use the program.
 
 
-** ## How is the data stored? Is the user protected?**
+## **How is the data stored? Is the user protected?**
 Creek Connect ensures the utmost security by employing robust password encryption techniques. Utilizing advanced hashing algorithms, passwords are converted into encrypted strings, making it virtually impossible to access login information even if the password file were to be compromised.
 Furthermore, Creek Connect mandates user authentication through a secure login process to access the data. This multi-layered security approach guarantees that only authorized users can gain entry, bolstering the overall integrity and protection of your sensitive information.
 
