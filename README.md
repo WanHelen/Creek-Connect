@@ -12,8 +12,8 @@ Creek Connect offers seamless and rapid access to data. Its intuitive and user-f
 ## **Key features**
 - **Easy User Interface**: Creek Connect is a GUI designed for user-friendliness and efficiency. 
 - **Search Functionality**: The search function allows the user to easily find partners, ensuring efficient usage of time.
-- **Partner Categories**: Creek Connect already filtered through the types of partners and displayed them in a immediate way to ensure user-friendliness. 
-
+- **Partner Categories**: Creek Connect already filtered through the types of partners and displayed them in a immediate way to ensure user-friendliness.
+- **Help Button**: When clicked, provides a short guidance for the user to answer any potential questions.
 
 ## **Additional functions**
 - **Secure data protection**: Creek Connect utilizes a login screen to verify users, ensuring that the data is secure. 
